@@ -1,4 +1,4 @@
-# Challenger 2 (Oracle ONE +  Alura) - Juego del ahorcado
+# Challenge 2 (Oracle ONE +  Alura) - Juego del ahorcado
 
 ## Consignas
 Requisitos:
